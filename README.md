@@ -7,4 +7,4 @@ VMware Workstation, ubuntu 12.04 VMware image and PC with the requirements of VM
 # The steps are as follows:-
 
 ## Step 1: Scouting the target
-<img width="50%" src="https://github.com/devesh0605/textsummerizer/blob/main/test%20case.png" alt="Image 1">
+<img width="50%" src="https://github.com/devesh0605/dns_poisoning_demo/blob/master/Step%201.png" alt="Image 1">
