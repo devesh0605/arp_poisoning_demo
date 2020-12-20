@@ -20,3 +20,7 @@ Nslookup (stands for “Name Server Lookup”) is a useful command for getting i
 ## Step 3: Accessing file that contains IP addresses
 <img width="50%" src="https://github.com/devesh0605/dns_poisoning_demo/blob/master/Step%203.png" alt="Image 3">
 
+Run the command `sudo nano /etc/hosts`.
+`sudo` is used to access the files as the system administration.
+`nano` is used to open the code editor to edit `/etc/hosts`.
+
