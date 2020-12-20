@@ -22,5 +22,22 @@ Nslookup (stands for “Name Server Lookup”) is a useful command for getting i
 
 Run the command `sudo nano /etc/hosts`.
 `sudo` is used to access the files as the system administration.
-`nano` is used to open the code editor to edit `/etc/hosts`.
+`nano` is used to open the code editor to edit `/etc/hosts`.Use your admin password.
 
+## Step 4: The file opens
+<img width="50%" src="https://github.com/devesh0605/dns_poisoning_demo/blob/master/Step%204.png" alt="Image 4">
+
+The upper window should open.
+
+## Step 5: Editing the file
+<img width="50%" src="https://github.com/devesh0605/dns_poisoning_demo/blob/master/Step%205.png" alt="Image 5">
+
+Make the DNS entry in the file. The syntax should be `IP_address_of_arget_website URL_of_website_you_want_to_replace_it`
+Save the file.
+
+## Step 6: Checking the result.
+<img width="50%" src="https://github.com/devesh0605/dns_poisoning_demo/blob/master/Step%206.png" alt="Image 6">
+
+Visit the `URL_of_website_you_want_to_replace_it` and your target website will open AND that's how it's done....
+
+Enjoy and Thank you!!!!
