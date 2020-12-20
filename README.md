@@ -10,3 +10,6 @@ VMware Workstation, ubuntu 12.04 VMware image and PC with the requirements of VM
 <img width="50%" src="https://github.com/devesh0605/dns_poisoning_demo/blob/master/Step%201.png" alt="Image 1">
 
 Visit the website which you wanna access with a different URL.
+
+## Step 2: Scouting the target
+<img width="50%" src="https://github.com/devesh0605/dns_poisoning_demo/blob/master/Step%202.png" alt="Image 2">
